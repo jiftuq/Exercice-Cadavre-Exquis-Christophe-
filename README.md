@@ -5,4 +5,7 @@ Un document balisé par Markdown peut être converti en HTML ou en autres format
 ## BACKSLASH ESCAPES
 Markdown allows you to use backslash escapes to generate literal characters which
 would otherwise have special meaning in Markdown’s formating syntax.
-hello world
+
+#Un nouveau Jour#
+
+Ce **lundi matin** Christophe sur son pc se mis a ecrire l'*histoire* suivante:
