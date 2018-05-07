@@ -8,4 +8,4 @@ would otherwise have special meaning in Markdown’s formating syntax.
 
 #Un nouveau Jour#
 
-Ce **lundi matin** Christophe sur son pc se mis a ecrire l'*histoire* suivante:
+Ce **lundi matin** Christophe sur son pc se mis a écrire l'*histoire* suivante:
